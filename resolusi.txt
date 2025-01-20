@@ -1,9 +1,10 @@
 ini adalah rosolusi pplg 3 untuk belajar git
-
+intro git dangithub
 -konsisten belajar git dan mengerjakan tugas git dan git hub
--praktek github
 -praktik git
 -belajar basis data
 -api
+  *register themoviedb.org
+  *api moviedb
 -dokumentasi
 -projek vidio striming
